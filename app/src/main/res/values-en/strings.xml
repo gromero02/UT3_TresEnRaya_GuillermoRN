@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UT3_TresEnRaya_GuillermoRN</string>
+    <string name="txttitulo">THREE IN A ROW</string>
+    <string name="bt1jugador">1 PLAYER</string>
+    <string name="bt2jugadores">2 PLAYERS</string>
+    <string name="rbfacil">Easy</string>
+    <string name="rbdificil">Difficult</string>
+    <string name="rbextremo">Extreme</string>
+    <string name="txttablero">TABLERO</string>
+    <string name="btnpartidas">GAMES</string>
+    <string name="btnranking">RANKING</string>
+    <string name="tituloPartidas">Games</string>
+    <string name="tituloRanking">RANKING</string>
+    <string name="cabecerapartidas">ID_PART -- PLAYER 1  --  PLAYER2  --  DIFFICULTY  --  RESULT</string>
+    <string name="cabeceraranking">USUARIO  --  PARTIDAS  --  PUNTOS</string>
+    <string name="hintnombreusu">Enter username:</string>
+    <string name="tituloultimapartida">LAST GAME PLAYED</string>
+    <string name="menuranking">RANKING</string>
+    <string name="menuultimapartida">LAST GAME </string>
+    <string name="menupartidas">GAMES</string>
+    <string name="iniciomenu">START</string>
+
+</resources>

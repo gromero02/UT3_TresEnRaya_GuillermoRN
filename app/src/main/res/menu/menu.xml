@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:onClick="actUltPart"
+        android:title="@string/menuultimapartida"
+        app:showAsAction="always" />
+    <item
+        android:onClick="actRankingM"
+        android:title="@string/menuranking"
+        app:showAsAction="never" />
+    <item
+        android:onClick="actPartidasM"
+        android:title="@string/menupartidas" />
+    <item
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:onClick="actInicioM"
+        android:title="@string/iniciomenu"
+        app:showAsAction="always" />
+</menu>

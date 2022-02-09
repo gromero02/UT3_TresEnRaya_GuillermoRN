@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#828A5F"
+    android:orientation="vertical"
+    tools:context=".UltimoGanador">
+
+    <TextView
+        android:id="@+id/tituloUltimaPartida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tituloultimapartida"
+        android:textColor="#DDB9B9"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="14dp"
+        android:background="?android:attr/panelFullBackground" />
+
+    <TextView
+        android:id="@+id/tvUltimaPartida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="20sp" />
+</LinearLayout>
